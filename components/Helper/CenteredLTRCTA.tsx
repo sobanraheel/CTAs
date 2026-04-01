@@ -17,7 +17,7 @@ const CenteredLTRCTA = () => {
           </div>
           <div className="col-span-6">
             <div className="flex justify-center flex-col w-full h-full items-end gap-6">
-              <Link href="/contact">
+              <Link href="#">
                 <FillWhiteButton>Contact Us</FillWhiteButton>
               </Link>
             </div>
