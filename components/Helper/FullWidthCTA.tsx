@@ -13,7 +13,7 @@ const FullWidthCTA = () => {
                 Elevate your vision to a new level with our revolutionary
                 knowledge.
               </h3>
-              <Link href="/contact">
+              <Link href="#">
                 <FillWhiteButton>Contact Us</FillWhiteButton>
               </Link>
             </div>
